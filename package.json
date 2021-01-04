@@ -36,7 +36,7 @@
     "response-time": "^1.0.0",
     "utility": "1.0.0",
     "validator": "0.3.7",
-    "xss": "~0.0.9"
+    "xss": "~0.3.8"
   },
   "devDependencies": {
     "istanbul": "^0.3.0",
