@@ -28,7 +28,7 @@
     "mongoose": "~2.8.0",
     "ndir": "0.1.5",
     "newrelic": "^1.7.5",
-    "node-markdown": "0.1.0",
+    "node-markdown": "0.1.1",
     "nodemailer": "0.3.43",
     "passport": "~0.1.17",
     "passport-github": "~0.1.5",
