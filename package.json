@@ -20,7 +20,7 @@
     "express": "~4.1.1",
     "express-session": "^1.0.4",
     "forever": "~0.10.11",
-    "loader": "0.1.2",
+    "loader": "2.0.0",
     "lodash": "^2.4.1",
     "marked": "~0.3.2",
     "memory-cache": "0.2.0",
